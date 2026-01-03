@@ -47,10 +47,11 @@
   object-position: center !important;
 }
 
-.author__avatar img[alt="Tiantian Zhang"] {
+.author__avatar img {
   border-radius: 50% !important;
   width: 144px !important;
   height: 144px !important;
   object-fit: cover !important;
   object-position: center !important;
+  max-width: none !important;
 }
